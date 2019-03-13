@@ -1,0 +1,246 @@
+!SESSION 2019-03-14 00:19:05.484 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/ksign/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/ksign/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-03-14 00:19:36.447
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-14 00:26:13.659
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2019-03-14 00:26:13.659
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Context Connector: Team Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Versions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Gson: Google Json Library for Java" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Tasks Connector: Bugzilla" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Tasks Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Builds Connector: Hudson/Jenkins" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Commons Repositories" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Commons Repositories HTTP Transport" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Context Connector: Java Development" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Context Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Task-Focused Interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Versions Connector: Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Task List" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Commons Notifications" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Builds" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn WikiText" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.659
+!MESSAGE "Mylyn Commons Identity" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-14 00:26:13.659
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.659
+!MESSAGE Software being installed: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.659
+!MESSAGE Missing requirement: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718) requires 'bundle org.eclipse.jface.text 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-14 00:26:13.686
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2019-03-14 00:26:13.686
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Context Connector: Team Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Versions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Gson: Google Json Library for Java" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Tasks Connector: Bugzilla" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Tasks Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Builds Connector: Hudson/Jenkins" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Commons Repositories" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Commons Repositories HTTP Transport" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Context Connector: Java Development" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Context Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Task-Focused Interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Versions Connector: Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Task List" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Commons Notifications" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Builds" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn WikiText" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.686
+!MESSAGE "Mylyn Commons Identity" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-14 00:26:13.686
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.686
+!MESSAGE Software being installed: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.686
+!MESSAGE Missing requirement: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718) requires 'bundle org.eclipse.jface.text 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-14 00:26:13.791
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2019-03-14 00:26:13.791
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Context Connector: Team Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Versions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Gson: Google Json Library for Java" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Tasks Connector: Bugzilla" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Tasks Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Builds Connector: Hudson/Jenkins" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Commons Repositories" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Commons Repositories HTTP Transport" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Context Connector: Java Development" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Context Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Task-Focused Interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Versions Connector: Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Task List" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Commons Notifications" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Builds" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn WikiText" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.791
+!MESSAGE "Mylyn Commons Identity" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-14 00:26:13.792
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.792
+!MESSAGE Software being installed: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.792
+!MESSAGE Missing requirement: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718) requires 'bundle org.eclipse.jface.text 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-14 00:26:13.792
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2019-03-14 00:26:13.792
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Context Connector: Team Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Versions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Gson: Google Json Library for Java" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Tasks Connector: Bugzilla" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Tasks Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Builds Connector: Hudson/Jenkins" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Commons Repositories" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Commons Repositories HTTP Transport" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Context Connector: Java Development" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Context Connector: Eclipse IDE" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Task-Focused Interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Versions Connector: Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Task List" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Commons Notifications" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Builds" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn WikiText" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Commons" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2019-03-14 00:26:13.792
+!MESSAGE "Mylyn Commons Identity" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-14 00:26:13.792
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.792
+!MESSAGE Software being installed: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-14 00:26:13.792
+!MESSAGE Missing requirement: Generic and Extensible Text Editor 1.0.2.v20180126-0718 (org.eclipse.ui.genericeditor 1.0.2.v20180126-0718) requires 'bundle org.eclipse.jface.text 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-03-14 00:31:27.858
+!MESSAGE Connection to https://mirrors.shu.edu.cn/eclipse/tools/orbit/downloads/drops/R20150821153341/repository/plugins/javax.validation_1.0.0.GA_v201205091237.jar.pack.gz failed on sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1509)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:216)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+	at sun.security.ssl.SSLSocketImpl.writeRecord(SSLSocketImpl.java:747)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:123)
+	at org.apache.http.impl.io.AbstractSessionOutputBuffer.flushBuffer(AbstractSessionOutputBuffer.java:159)
+	at org.apache.http.impl.io.AbstractSessionOutputBuffer.flush(AbstractSessionOutputBuffer.java:166)
+	at org.apache.http.impl.AbstractHttpClientConnection.doFlush(AbstractHttpClientConnection.java:272)
+	at org.apache.http.impl.AbstractHttpClientConnection.flush(AbstractHttpClientConnection.java:277)
+	at org.apache.http.impl.conn.AbstractClientConnAdapter.flush(AbstractClientConnAdapter.java:201)
+	at org.apache.http.protocol.HttpRequestExecutor.doSendRequest(HttpRequestExecutor.java:239)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:685)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:487)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+	at sun.security.validator.Validator.validate(Validator.java:260)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1491)
+	... 23 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+	... 29 more
